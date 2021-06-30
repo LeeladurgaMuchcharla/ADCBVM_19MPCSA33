@@ -22,6 +22,7 @@ public class NumberOfOddAndEvenDigits
     cs.close();
    }
  }
+........................
 Output:
 Enter the number:
 12345
